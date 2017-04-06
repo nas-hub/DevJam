@@ -14,5 +14,5 @@
 
   ![Apigee Dashboard](images/management-ui-new.png)
 
-  Once you have successfully created an account and accessed the Apigee Edge Management UI, you are ready to start on the labs. 
+  Once you have successfully created an account and accessed the Apigee Edge Management UI, you are ready to start on the [Core labs](https://github.com/SudheendraBS/ChicagoDevJam/tree/master/Labs/Core/Lab%201%20API%20Design%20-%20Create%20a%20Reverse%20Proxy%20with%20OpenAPI%20specification).
  

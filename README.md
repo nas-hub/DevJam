@@ -8,6 +8,7 @@ All of the material here is released under the [MIT license](./LICENSE.md)
 * Product Demo : 60 mins
 
 ### [Core Labs](./Labs/Core) 
+0. Sign-up with Apigee
 1. API Design - Create a Reverse Proxy with OpenAPI specification
 2. Traffic Management - Throttle APIs
 3. API Diagnostics - Trace tool
@@ -18,7 +19,7 @@ All of the material here is released under the [MIT license](./LICENSE.md)
 8. Consume APIs
 9. API Analytics - Custom Reports
 
-NOTE : You can start with the first lab [1. API Design - Create a Reverse Proxy with OpenAPI specification](https://github.com/apigee/devjam3/tree/master/Labs/Core/Lab%201%20API%20Design%20-%20Create%20a%20Reverse%20Proxy%20with%20OpenAPI%20specification)
+NOTE : You can start with the first lab [0. Sign-up with Apigee](https://github.com/SudheendraBS/ChicagoDevJam/tree/master/Labs/Core/Lab%200%20Sign-up%20with%20Apigee%20Edge)
 
 ### [Appendix Labs](./Labs/Appendix)
 * API Development - Create a RESTful API from a SOAP service

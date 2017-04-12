@@ -60,7 +60,13 @@ Note: In the following snippet, the Pattern value that reads *{my_initials}* is 
 </ExtractVariables>
 ```
 
-* **Save your proxy** and wait for it to successfully deploy
+* Click on **Save**. If it propts to create a new revision, then click on *Save as new Revision*. 
+
+![image alt text](./media/image_4.png)
+
+* **Deploy** the new revision to *test* environment. 
+
+![image alt text](./media/image_5.png)
 
 ## Part 2 - Trace and Troubleshoot
 

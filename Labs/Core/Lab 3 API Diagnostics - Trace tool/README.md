@@ -78,10 +78,12 @@ Consider a scenario where one of your API consumers reports seeing 404 errors in
 * Locate the URL field and append the following to the end
 
 ```
-/07b830b3-1f91-11e7-9fee-0ad881f403bf?initials={your initials}
+/7ed25ec5-c89f-11e6-861b-0ad881f403bfaaa?initials={your initials}
 ```
 
 * Update above *{your initials}* with your actual initials and remove the braces.
+
+![image alt text](./media/image_7.png)
 
 * Click the green **Start Trace Session** button, then click **Send**. Note a trace log is captured, with a 404 response.  
 

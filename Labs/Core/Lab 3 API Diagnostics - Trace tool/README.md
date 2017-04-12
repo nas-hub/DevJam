@@ -66,7 +66,7 @@ Note: In the following snippet, the Pattern value that reads *{my_initials}* is 
 
 * **Deploy** the new revision to *test* environment. 
 
-![image alt text](./media/image_5.png)
+![image alt text](./media/image_6.png)
 
 ## Part 2 - Trace and Troubleshoot
 

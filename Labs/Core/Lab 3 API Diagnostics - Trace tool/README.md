@@ -135,7 +135,7 @@ Now, imagine troubleshooting this issue - except with hundreds or thousands of r
 /07b830b3-1f91-11e7-9fee-0ad881f403bf?initials=xyz
 ```
 
-![image alt text](./media/image_10.png)
+![image alt text](./media/image_12.png)
 
 * Click the **Send** button. 
 

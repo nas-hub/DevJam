@@ -78,7 +78,7 @@ Consider a scenario where one of your API consumers reports seeing 404 errors in
 * Locate the URL field and append the following to the end
 
 ```
-/da94d538-d793-11e6-a734-122e0737977dAAA?initials={your initials}
+/07b830b3-1f91-11e7-9fee-0ad881f403bf?initials={your initials}
 ```
 
 * Update above *{your initials}* with your actual initials and remove the braces.
@@ -98,7 +98,7 @@ Consider a scenario where one of your API consumers reports seeing 404 errors in
 * Edit your URL field once more to follow the pattern below
 
 ```
-/da94d538-d793-11e6-a734-122e0737977d?initials={your initials}
+/07b830b3-1f91-11e7-9fee-0ad881f403bf?initials={your initials}
 ```
 
 * Update above {your initials} with your actual initials & remove the braces
@@ -116,7 +116,7 @@ Now, imagine troubleshooting this issue - except with hundreds or thousands of r
 * Expand the filters pane on the left side of your screen.  Then add a query parameter filter named ‘initials’.  Put your initials in the value column and ensure the URL also holds your initials, like before.
 
 ```
-/da94d538-d793-11e6-a734-122e0737977d?initials={your initials}
+/07b830b3-1f91-11e7-9fee-0ad881f403bf?initials={your initials}
 ```
 
 * Click the green **Start Trace Session** button, then click the **Send** button again to fire another API call.  Note the captured trace entry.
@@ -125,7 +125,7 @@ Now, imagine troubleshooting this issue - except with hundreds or thousands of r
 * Update the URL with a new, fake value for the initials query parameter.  Example below.
 
 ```
-/7ed25ec5-c89f-11e6-861b-0ad881f403bf?initials=xyz
+/07b830b3-1f91-11e7-9fee-0ad881f403bf?initials=xyz
 ```
 
 * Click the **Send** button. 

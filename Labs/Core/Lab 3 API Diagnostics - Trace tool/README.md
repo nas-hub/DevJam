@@ -105,6 +105,8 @@ Consider a scenario where one of your API consumers reports seeing 404 errors in
 
 * Update above {your initials} with your actual initials & remove the braces
 
+![image alt text](./media/image_9.png)
+
 * Click the **Send** button again.
 
 * Note - this time, your request returns a valid JSON response.
@@ -121,6 +123,9 @@ Now, imagine troubleshooting this issue - except with hundreds or thousands of r
 /07b830b3-1f91-11e7-9fee-0ad881f403bf?initials={your initials}
 ```
 
+![image alt text](./media/image_8.png)
+
+
 * Click the green **Start Trace Session** button, then click the **Send** button again to fire another API call.  Note the captured trace entry.
 
 
@@ -129,6 +134,8 @@ Now, imagine troubleshooting this issue - except with hundreds or thousands of r
 ```
 /07b830b3-1f91-11e7-9fee-0ad881f403bf?initials=xyz
 ```
+
+![image alt text](./media/image_10.png)
 
 * Click the **Send** button. 
 

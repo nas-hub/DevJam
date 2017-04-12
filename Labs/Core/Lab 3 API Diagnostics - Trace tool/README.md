@@ -105,7 +105,7 @@ Consider a scenario where one of your API consumers reports seeing 404 errors in
 
 * Update above {your initials} with your actual initials & remove the braces
 
-![image alt text](./media/image_9.png)
+![image alt text](./media/image_12.png)
 
 * Click the **Send** button again.
 

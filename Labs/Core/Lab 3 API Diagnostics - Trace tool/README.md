@@ -60,7 +60,7 @@ Note: In the following snippet, the Pattern value that reads *{my_initials}* is 
 </ExtractVariables>
 ```
 
-* Click on **Save**. If it propts to create a new revision, then click on *Save as new Revision*. 
+* Click on **Save**. It will prompts to create a new revision, then click on *Save as new Revision*. 
 
 ![image alt text](./media/image_4.png)
 

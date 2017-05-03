@@ -19,7 +19,7 @@ All of the material here is released under the [MIT license](./LICENSE.md)
 8. Consume APIs
 9. API Analytics - Custom Reports
 
-NOTE : You can start with the first lab [0. Sign-up with Apigee](https://github.com/SudheendraBS/ChicagoDevJam/tree/master/Labs/Core/Lab%200%20Sign-up%20with%20Apigee%20Edge)
+NOTE : You can start with the first lab [0. Sign-up with Apigee](https://github.com/nas-hub/DevJam/tree/master/Labs/Core/Lab%200%20Sign-up%20with%20Apigee%20Edge)
 
 ### [Appendix Labs](./Labs/Appendix)
 * API Development - Create a RESTful API from a SOAP service
